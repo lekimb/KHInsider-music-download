@@ -11,7 +11,7 @@ La url deberá corresponderse con la página de un álbum. En el siguiente ejemp
 ```
 python main.py https://downloads.khinsider.com/game-soundtracks/album/professor-layton-and-the-last-specter
 ```
-Tal vez se prefiera escribir la url directamente en el código, en vez de tener que pasarla como parámetro. Deberán eliminarse las siguientes líneas:
+Tal vez se prefiera escribir la url directamente en el código, en vez de tener que pasarla como parámetro. Para ello, deberán eliminarse las siguientes líneas:
 ```
 if len(sys.argv) > 1:
     main(sys.argv[1])
