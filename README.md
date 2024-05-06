@@ -1,4 +1,4 @@
-# KHInsider-music-download
+# Video-game-soundtracks-downloader
 Python script para descargar álbumes de la web https://downloads.khinsider.com
 > KHI offers video and PC game soundtracks for download in MP3 and lossless forms. Want to get your favourite game's OST? You have found the right place.
 
